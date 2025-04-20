@@ -11,5 +11,5 @@ def solve_age_riddle():
     print("Drew is", drew)
     print("Ethan is", ethan)
 
-# Calling the function
+
 solve_age_riddle()

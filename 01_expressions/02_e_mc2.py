@@ -1,4 +1,4 @@
-C: int = 299792458  # The speed of light in m/s
+C: int = 299792458  
 
 def main():
     mass_in_kg: float = float(input("Enter kilos of mass: "))
